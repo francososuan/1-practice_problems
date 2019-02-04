@@ -1,3 +1,3 @@
 print("Hello World")
 
-print("Learn how to update")
+print("How to update file")
